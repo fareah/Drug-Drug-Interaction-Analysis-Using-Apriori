@@ -1,0 +1,426 @@
+Drug A,Drug B,nAB1,Lift,Conviction
+Amikacin sulfate,Human haptoglobin,3,1200.0,1.25
+Acyclovir,Human haptoglobin,3,703.125,1.23
+Human haptoglobin,Melphalan,4,312.5,1.043
+Amikacin sulfate,Melphalan,5,291.262,1.051
+Hydroxyzine hydrochloride,Polymyxin B sulfate,3,290.323,1.051
+Didanosine,Nelfinavir Mesylate,3,250.0,1.026
+Acyclovir,Melphalan,8,243.902,1.069
+Hydrocortisone sodium succinate,Melphalan,5,242.718,1.051
+Hydroxyzine hydrochloride,Melphalan,4,242.424,1.042
+Amphotericin B,Melphalan,5,240.385,1.05
+Cefpirome sulfate,Melphalan,4,240.0,1.041
+Ceftazidime hydrate,Melphalan,4,237.624,1.041
+Hydrocortisone sodium succinate,Polymyxin B sulfate,3,227.273,1.047
+Acyclovir,Polymyxin B sulfate,4,208.333,1.059
+Efavirenz,Nelfinavir Mesylate,4,198.347,1.034
+Amphotericin B,Polymyxin B sulfate,3,176.471,1.036
+Etoposide,Melphalan,3,163.636,1.028
+Dexamethasone sodium phosphate,Hangeshashinto,3,161.002,1.075
+Filgrastim (genetical recombination),Hangeshashinto,3,142.857,1.071
+Melphalan,Polymyxin B sulfate,4,140.845,1.059
+Didanosine,Sanilvudine,3,129.87,1.013
+Granisetron hydrochloride,Hangeshashinto,3,126.05,1.076
+Fluconazole,Melphalan,5,125.0,1.043
+Hydrocortisone sodium succinate,Hydroxyzine hydrochloride,4,116.959,1.024
+Abacavir sulfate,Lopinavir/ritonavir,3,111.111,1.019
+Allopurinol,Melphalan,7,111.111,1.071
+Lopinavir/ritonavir,Sanilvudine,7,111.111,1.026
+Albumin tannate,Loperamide hydrochloride,4,109.19,1.026
+Efavirenz,Sanilvudine,5,103.093,1.017
+Lenograstim (genetical recombination),Melphalan,4,101.954,1.038
+Amphotericin B,Cefpirome sulfate,3,97.403,1.02
+Bifidobacterium preparations (4),Melphalan,3,95.745,1.033
+Filgrastim (genetical recombination),Melphalan,5,95.663,1.046
+Nelfinavir Mesylate,Sanilvudine,6,93.848,1.022
+Acyclovir,Amphotericin B,5,91.912,1.025
+Amphotericin B,Sodium bicarbonate,3,91.463,1.018
+Acyclovir,Sodium bicarbonate,4,89.286,1.024
+Hydrocortisone sodium succinate,Sodium bicarbonate,3,86.705,1.017
+Hangeshashinto,Irinotecan hydrochloride hydrate,8,85.745,1.026
+Lamivudine,Nelfinavir Mesylate,7,85.227,1.041
+Acyclovir,Amikacin sulfate,4,83.799,1.023
+Levofloxacin hydrate,Melphalan,3,83.488,1.031
+Dry concentrated human blood coagulation factor 8,Lamivudine,3,82.192,1.008
+Granisetron hydrochloride,Melphalan,5,80.95,1.047
+"Amino acids, sugars, and electrolytes (2-3)",Irinotecan hydrochloride hydrate,4,80.808,1.013
+Didanosine,Lamivudine,3,78.947,1.008
+Fluconazole,Ondansetron hydrochloride hydrate,3,78.261,1.026
+Human haptoglobin,Hydrocortisone sodium succinate,3,78.125,1.01
+Cholestyramine,Leflunomide,3,77.72,1.008
+Hangeshashinto,Nilvadipine,3,77.519,1.024
+Lactomin,Loperamide hydrochloride,7,76.726,1.045
+Abacavir sulfate,Sanilvudine,3,74.38,1.012
+Acyclovir,Cefpirome sulfate,3,73.052,1.02
+Imipenem hydrate/cilastatin sodium,Irinotecan hydrochloride hydrate,5,72.639,1.017
+Cefepime hydrochloride hydrate,Irinotecan hydrochloride hydrate,5,71.908,1.017
+Daikenchuyu,Tegafur/uracil,5,71.023,1.014
+Acyclovir,Hydroxyzine hydrochloride,3,70.755,1.019
+Dexamethasone sodium phosphate,Melphalan,3,69.231,1.03
+Albumin tannate,Lactomin,4,68.027,1.016
+Dopamine hydrochloride,Irinotecan hydrochloride hydrate,4,67.797,1.014
+Carbazochrome Sodium Sulfonate Hydrate,Irinotecan hydrochloride hydrate,4,67.797,1.014
+Metoclopramide hydrochloride,Ondansetron hydrochloride hydrate,3,67.064,1.025
+Amphotericin B,Ceftazidime hydrate,3,66.372,1.013
+Acyclovir,Ceftazidime hydrate,4,65.217,1.017
+Allopurinol,Polymyxin B sulfate,3,64.935,1.04
+Hydroxyzine hydrochloride,Lenograstim (genetical recombination),3,64.748,1.011
+Lenograstim (genetical recombination),Sodium bicarbonate,4,64.551,1.024
+Amikacin sulfate,Metoclopramide hydrochloride,3,64.516,1.011
+Isosorbide dinitrate,Levothyroxine Sodium Hydrate,3,63.158,1.01
+Efavirenz,Lamivudine,5,62.5,1.01
+Human serum albumin,Irinotecan hydrochloride hydrate,3,61.433,1.01
+Calcium folinate,Tegafur/uracil,44,61.055,1.102
+Ceftazidime hydrate,Hydrocortisone sodium succinate,3,61.017,1.01
+Melphalan,Sodium bicarbonate,4,60.606,1.024
+Granisetron hydrochloride,Loperamide hydrochloride,5,57.67,1.033
+Lamivudine,Ritonavir,3,56.391,1.027
+Methylprednisolone sodium succinate,Panipenem/Betamipron,5,55.371,1.017
+Candesartan Cilexetil,Carbazochrome Sodium Sulfonate Hydrate,3,55.351,1.011
+Lenograstim (genetical recombination),Loperamide hydrochloride,3,55.283,1.02
+Cefpirome sulfate,Granisetron hydrochloride,4,54.92,1.009
+Amikacin sulfate,Bifidobacterium preparations (4),3,54.217,1.009
+Fluconazole,Sodium bicarbonate,3,53.892,1.018
+Dexamethasone sodium phosphate,Nilvadipine,3,53.667,1.023
+Hydrocortisone sodium succinate,Lenograstim (genetical recombination),3,53.191,1.011
+Nilvadipine,Tegafur/uracil,3,52.941,1.009
+Cefpirome sulfate,Filgrastim (genetical recombination),3,51.282,1.008
+Dopamine hydrochloride,Panipenem/Betamipron,3,51.195,1.01
+Acyclovir,Hydrocortisone sodium succinate,4,50.847,1.013
+Human haptoglobin,Sulfamethoxazole-trimethoprim,4,50.083,1.007
+Amphotericin B,Hydrocortisone sodium succinate,3,49.669,1.01
+Sodium heparin,Sulfamethoxazole-trimethoprim,3,49.261,1.005
+Amikacin sulfate,Filgrastim (genetical recombination),3,48.387,1.008
+Minocycline hydrochloride,Panipenem/Betamipron,3,48.077,1.01
+Polymyxin B sulfate,Sulfamethoxazole-trimethoprim,4,47.771,1.006
+Metoclopramide hydrochloride,Sodium bicarbonate,3,47.294,1.017
+Gefitinib,Morphine sulfate hydrate,3,47.269,1.011
+Dexamethasone sodium phosphate,Loperamide hydrochloride,3,46.778,1.02
+Filgrastim (genetical recombination),Human serum albumin,4,46.584,1.022
+Lamivudine,Sanilvudine,8,45.837,1.021
+Calcium Levofolinate,Fluorouracil,33,45.732,1.052
+Betamethasone,Gefitinib,3,45.662,1.004
+Calcium folinate,Hangeshashinto,3,45.501,1.073
+Imipenem hydrate/cilastatin sodium,Lenograstim (genetical recombination),3,44.488,1.01
+Furosemide,Melphalan,3,44.118,1.03
+Azasetron Hydrochloride,Calcium Levofolinate,3,44.053,1.013
+Albumin tannate,Irinotecan hydrochloride hydrate,3,44.031,1.01
+Enalapril Maleate,"Tegafur, gimeracil, and oteracil potassium combination drug",3,43.186,1.006
+Domperidone,Irinotecan hydrochloride hydrate,3,43.145,1.01
+Lamivudine,Zidovudine,4,42.857,1.02
+Cefozopran Hydrochloride,Fluconazole,3,42.553,1.007
+Allopurinol,Cefpirome sulfate,4,42.463,1.026
+Amikacin sulfate,Fluconazole,3,42.155,1.007
+Granisetron hydrochloride,Hydroxyzine hydrochloride,4,41.768,1.024
+Ceftazidime hydrate,Fluconazole,3,41.667,1.007
+Filgrastim (genetical recombination),Irinotecan hydrochloride hydrate,6,41.609,1.019
+Acyclovir,Fluconazole,5,41.482,1.011
+Granisetron hydrochloride,Nilvadipine,3,40.724,1.023
+Hydrocortisone sodium succinate,Sulfamethoxazole-trimethoprim,5,40.65,1.008
+Acyclovir,Metoclopramide hydrochloride,3,40.614,1.011
+Granisetron hydrochloride,Sodium bicarbonate,4,40.107,1.023
+Lamivudine,Lopinavir/ritonavir,4,40.053,1.019
+Dexamethasone sodium phosphate,Sodium bicarbonate,3,40.018,1.017
+Acyclovir,Filgrastim (genetical recombination),4,39.683,1.01
+Hydroxyzine hydrochloride,Sulfamethoxazole-trimethoprim,4,39.604,1.006
+Acyclovir,Sulfamethoxazole-trimethoprim,7,39.238,1.01
+Ceftazidime hydrate,Sulfamethoxazole-trimethoprim,4,38.71,1.006
+Amikacin sulfate,Sulfamethoxazole-trimethoprim,4,38.523,1.006
+Sucralfate hydrate,"Tegafur, gimeracil, and oteracil potassium combination drug",4,38.241,1.008
+Amphotericin B,Sulfamethoxazole-trimethoprim,5,38.052,1.007
+Acyclovir,Lenograstim (genetical recombination),3,37.879,1.01
+Etoposide,Granisetron hydrochloride,3,37.736,1.006
+Amlodipine besylate,Calcium folinate,3,37.129,1.015
+Melphalan,Metoclopramide hydrochloride,4,36.232,1.014
+Irinotecan hydrochloride hydrate,Loperamide hydrochloride,11,36.16,1.068
+Hangeshashinto,Panipenem/Betamipron,3,35.971,1.011
+Chlorpheniramine maleate,Dexamethasone sodium phosphate,3,34.562,1.004
+Ramosetron Hydrochloride,"Tegafur, gimeracil, and oteracil potassium combination drug",3,34.549,1.006
+Paclitaxel,"Tegafur, gimeracil, and oteracil potassium combination drug",5,34.404,1.009
+Amphotericin B,Granisetron hydrochloride,3,34.091,1.007
+Paroxetine hydrochloride hydrate,Sulpiride,3,33.784,1.007
+Azasetron Hydrochloride,Irinotecan hydrochloride hydrate,3,33.784,1.01
+Loperamide hydrochloride,Scopolamine Butyl Bromide,3,33.746,1.023
+Granisetron hydrochloride,Irinotecan hydrochloride hydrate,6,33.613,1.019
+Filgrastim (genetical recombination),Fosfluconazole,3,33.482,1.015
+Sodium Ferrous Citrate,Sucralfate hydrate,3,33.259,1.012
+Docetaxel hydrate,Irinotecan hydrochloride hydrate,4,33.223,1.013
+Dexamethasone sodium phosphate,Granisetron hydrochloride,9,33.125,1.014
+Cefepime hydrochloride hydrate,Vancomycin hydrochloride,3,32.883,1.007
+Azasetron Hydrochloride,Doxorubicin hydrochloride,3,32.787,1.01
+Mosapride Citrate Hydrate,Tegafur/uracil,3,32.514,1.008
+Melphalan,Sulfamethoxazole-trimethoprim,8,32.362,1.013
+Fluconazole,Metoclopramide hydrochloride,3,32.028,1.01
+Doxorubicin hydrochloride,Sulfamethoxazole-trimethoprim,4,31.847,1.006
+Loxoprofen sodium hydrate,Scopolamine Butyl Bromide,3,31.469,1.023
+Allopurinol,Hydroxyzine hydrochloride,3,30.675,1.018
+Famotidine,Melphalan,4,30.581,1.037
+Loperamide hydrochloride,Metoclopramide hydrochloride,6,30.395,1.021
+Imipenem hydrate/cilastatin sodium,Vancomycin hydrochloride,3,30.181,1.007
+Aluminum hydroxide gel/Magnesium hydroxide,Sulfamethoxazole-trimethoprim,3,29.801,1.005
+Ondansetron hydrochloride hydrate,Sulfamethoxazole-trimethoprim,3,29.801,1.005
+Allopurinol,Amikacin sulfate,3,29.762,1.018
+Hangeshashinto,Tegafur/uracil,3,29.412,1.009
+Cefpirome sulfate,Sulfamethoxazole-trimethoprim,3,29.364,1.005
+Dexamethasone sodium phosphate,Irinotecan hydrochloride hydrate,4,29.304,1.012
+Metoclopramide hydrochloride,Panipenem/Betamipron,3,29.221,1.01
+Fluconazole,Lenograstim (genetical recombination),3,29.221,1.009
+Fluconazole,Hydrocortisone sodium succinate,3,29.032,1.009
+Lansoprazole,Sodium Alginate,3,28.436,1.014
+Cefpirome sulfate,Dexamethasone sodium phosphate,3,28.436,1.005
+Filgrastim (genetical recombination),Panipenem/Betamipron,4,28.289,1.013
+Lenograstim (genetical recombination),Metoclopramide hydrochloride,3,28.116,1.01
+Sodium bicarbonate,Sulfamethoxazole-trimethoprim,4,28.103,1.006
+Metoclopramide,"Tegafur, gimeracil, and oteracil potassium combination drug",4,28.09,1.007
+Lenograstim (genetical recombination),Panipenem/Betamipron,3,27.829,1.01
+Calcium folinate,Daikenchuyu,5,27.634,1.043
+Granisetron hydrochloride,Lenograstim (genetical recombination),5,27.149,1.015
+Cisplatin,Irinotecan hydrochloride hydrate,12,27.068,1.034
+Melphalan,Panipenem/Betamipron,3,26.408,1.01
+Loperamide hydrochloride,Sodium bicarbonate,3,26.132,1.018
+Folic acid,Infliximab (genetical recombination),3,25.714,1.003
+Acyclovir,Granisetron hydrochloride,3,25.568,1.007
+Calcium Levofolinate,Irinotecan hydrochloride hydrate,9,25.409,1.028
+Cefozopran Hydrochloride,Levofloxacin hydrate,3,25.352,1.004
+Lactomin,Tegafur/uracil,5,25.067,1.014
+Irinotecan hydrochloride hydrate,Nedaplatin,4,24.969,1.045
+Allopurinol,Amphotericin B,3,24.876,1.015
+Dopamine hydrochloride,Methylprednisolone sodium succinate,3,24.752,1.005
+Cefpirome sulfate,Ursodeoxycholic acid,3,24.59,1.004
+Amoxicillin hydrate,L-Carbocysteine,3,24.557,1.004
+Allopurinol,Sodium bicarbonate,3,24.39,1.014
+Fluconazole,Sulfamethoxazole-trimethoprim,6,24.357,1.008
+Amlodipine besylate,Fluvastatin Sodium,3,24.351,1.009
+Diclofenac sodium,Leflunomide,4,23.976,1.01
+Amphotericin B,Dexamethasone sodium phosphate,3,23.474,1.005
+Allopurinol,Lenograstim (genetical recombination),4,23.148,1.013
+Granisetron hydrochloride,Hydrocortisone sodium succinate,4,22.844,1.013
+Methylprednisolone sodium succinate,Minocycline hydrochloride,3,22.321,1.006
+Azasetron Hydrochloride,Fluorouracil,3,22.272,1.006
+Granisetron hydrochloride,Metoclopramide hydrochloride,4,22.198,1.012
+Dexamethasone sodium phosphate,Hydrocortisone sodium succinate,3,22.189,1.009
+Magnesium oxide,Naproxen,3,22.059,1.024
+Docetaxel hydrate,Fluorouracil,4,21.645,1.008
+Furosemide,Sodium bicarbonate,3,21.531,1.014
+Dexamethasone sodium phosphate,Lenograstim (genetical recombination),3,21.5,1.009
+Amlodipine besylate,Tegafur/uracil,3,21.368,1.008
+Leflunomide,Sulfasalazine,3,21.277,1.007
+Spironolactone,"Tegafur, gimeracil, and oteracil potassium combination drug",3,21.067,1.005
+Loperamide hydrochloride,Metoclopramide,4,20.704,1.014
+Prednisolone,Troxipide,3,20.284,1.019
+Dexamethasone sodium phosphate,Tegafur/uracil,3,20.243,1.008
+Furosemide,Roxatidine Acetate Hydrochloride,3,20.179,1.013
+Fluorouracil,Irinotecan hydrochloride hydrate,9,20.139,1.027
+Furosemide,Irinotecan hydrochloride hydrate,4,20.067,1.013
+Lactomin,"Tegafur, gimeracil, and oteracil potassium combination drug",6,19.978,1.011
+Lopinavir/ritonavir,Sulfamethoxazole-trimethoprim,3,19.903,1.004
+Melphalan,Sodium heparin,3,19.894,1.008
+Magnesium oxide,Scopolamine Butyl Bromide,3,19.754,1.022
+Hydrocortisone sodium succinate,Ranitidine Hydrochloride,3,19.506,1.004
+Brotizolam,"Tegafur, gimeracil, and oteracil potassium combination drug",4,18.762,1.007
+Allopurinol,Bifidobacterium preparations (4),4,18.727,1.011
+Magnesium oxide,Tegafur/uracil,8,18.576,1.02
+Magnesium oxide,Ramosetron Hydrochloride,3,18.511,1.02
+Allopurinol,Filgrastim (genetical recombination),4,18.365,1.011
+Filgrastim (genetical recombination),Granisetron hydrochloride,4,18.315,1.008
+Folic acid,Methotrexate,4,18.051,1.002
+Metoclopramide hydrochloride,Sulfamethoxazole-trimethoprim,4,18.032,1.006
+Calcium folinate,Loperamide hydrochloride,4,17.991,1.027
+Famotidine,Ondansetron hydrochloride hydrate,3,17.986,1.021
+Allopurinol,Metoclopramide hydrochloride,3,17.857,1.01
+Allopurinol,Granisetron hydrochloride,5,17.806,1.01
+Acyclovir,Dexamethasone sodium phosphate,3,17.689,1.004
+Sodium bicarbonate,Ursodeoxycholic acid,3,17.564,1.004
+Allopurinol,Panipenem/Betamipron,3,17.544,1.01
+Panipenem/Betamipron,Ursodeoxycholic acid,3,17.469,1.004
+Lenograstim (genetical recombination),Sulfamethoxazole-trimethoprim,4,17.399,1.006
+Calcium folinate,Irinotecan hydrochloride hydrate,8,16.995,1.025
+Levofloxacin hydrate,Meropenem hydrate,3,16.835,1.006
+Loperamide hydrochloride,Tegafur/uracil,4,16.807,1.011
+Allopurinol,Hydrocortisone sodium succinate,3,16.447,1.009
+Melphalan,Meropenem hydrate,3,16.164,1.006
+Ranitidine Hydrochloride,Sulfamethoxazole-trimethoprim,3,15.974,1.005
+Acyclovir,Levofloxacin hydrate,3,15.89,1.004
+Irinotecan hydrochloride hydrate,Lactomin,7,15.808,1.027
+Furosemide,Imatinib mesylate,3,15.789,1.01
+Granisetron hydrochloride,Tegafur/uracil,3,15.525,1.008
+Sodium Ferrous Citrate,"Tegafur, gimeracil, and oteracil potassium combination drug",3,15.379,1.005
+Magnesium oxide,"Tegafur, gimeracil, and oteracil potassium combination drug",10,15.372,1.017
+Acyclovir,Allopurinol,5,15.344,1.004
+Furosemide,Lenograstim (genetical recombination),3,15.203,1.01
+Methylprednisolone sodium succinate,Sulfamethoxazole-trimethoprim,3,15.198,1.004
+Gefitinib,Lansoprazole,3,15.144,1.003
+Calcium folinate,Nilvadipine,3,15.05,1.022
+Acyclovir,Ursodeoxycholic acid,3,15.04,1.004
+Daikenchuyu,Magnesium oxide,5,15.015,1.003
+Filgrastim (genetical recombination),Minocycline hydrochloride,3,14.985,1.007
+Famotidine,Loperamide hydrochloride,3,14.881,1.017
+Allopurinol,Sulfamethoxazole-trimethoprim,6,14.859,1.008
+Cisplatin,"Tegafur, gimeracil, and oteracil potassium combination drug",12,14.642,1.018
+Azasetron Hydrochloride,Cisplatin,3,14.577,1.004
+Furosemide,Metoclopramide hydrochloride,3,14.286,1.009
+Dexamethasone sodium phosphate,Docetaxel hydrate,3,14.158,1.006
+Filgrastim (genetical recombination),Methylprednisolone sodium succinate,4,14.052,1.006
+Carbazochrome Sodium Sulfonate Hydrate,Sennosides,3,13.979,1.003
+Loxoprofen sodium hydrate,Panipenem/Betamipron,3,13.915,1.01
+Enalapril Maleate,aspirin,3,13.829,1.002
+Docetaxel hydrate,"Tegafur, gimeracil, and oteracil potassium combination drug",3,13.736,1.005
+Furosemide,"Tegafur, gimeracil, and oteracil potassium combination drug",5,13.636,1.009
+Melphalan,Ursodeoxycholic acid,4,13.605,1.005
+Famotidine,Irinotecan hydrochloride hydrate,5,13.528,1.015
+Loxoprofen sodium hydrate,Metoclopramide,3,13.413,1.009
+Granisetron hydrochloride,"Tegafur, gimeracil, and oteracil potassium combination drug",4,13.394,1.007
+Loxoprofen sodium hydrate,Metoclopramide hydrochloride,3,13.239,1.009
+Irinotecan hydrochloride hydrate,Ramosetron Hydrochloride,3,13.228,1.023
+Furosemide,Tegafur/uracil,3,13.006,1.008
+Irinotecan hydrochloride hydrate,Nilvadipine,3,12.92,1.022
+Filgrastim (genetical recombination),Meropenem hydrate,3,12.755,1.006
+Levofloxacin hydrate,Sulfamethoxazole-trimethoprim,3,12.568,1.004
+Magnesium oxide,Pantethin,4,12.471,1.013
+Famotidine,Sodium bicarbonate,3,12.315,1.014
+Sanilvudine,Sulfamethoxazole-trimethoprim,3,12.303,1.004
+Irinotecan hydrochloride hydrate,Tegafur/uracil,8,12.277,1.021
+Fluconazole,Levofloxacin hydrate,3,12.016,1.004
+Famotidine,"Tegafur, gimeracil, and oteracil potassium combination drug",8,11.884,1.013
+Cisplatin,Fluorouracil,8,11.546,1.014
+L-Carbocysteine,Rebamipide,3,11.485,1.002
+Acetaminophen,Rebamipide,3,11.372,1.002
+Allopurinol,Fluconazole,3,11.338,1.006
+Lansoprazole,"Tegafur, gimeracil, and oteracil potassium combination drug",3,11.257,1.005
+Allopurinol,Levofloxacin hydrate,5,11.231,1.006
+Granisetron hydrochloride,Meropenem hydrate,3,11.076,1.006
+Infliximab (genetical recombination),Methotrexate,5,11.057,1.002
+Dexamethasone sodium phosphate,Sulfamethoxazole-trimethoprim,3,11.042,1.004
+Granisetron hydrochloride,Sulfamethoxazole-trimethoprim,4,10.978,1.006
+Calcium folinate,Lactomin,4,10.735,1.015
+Cholestyramine,Prednisolone,3,10.722,1.001
+Furosemide,Spironolactone,8,10.714,1.007
+Calcium Levofolinate,Tegafur/uracil,4,10.664,1.011
+Magnesium oxide,Metoclopramide,4,10.631,1.011
+Irinotecan hydrochloride hydrate,"Tegafur, gimeracil, and oteracil potassium combination drug",11,10.573,1.018
+Dexamethasone,Famotidine,3,10.442,1.001
+Fluorouracil,Tegafur/uracil,5,10.394,1.013
+Calcium Levofolinate,Maintenance solution (3),4,10.331,1.01
+Famotidine,Metoclopramide hydrochloride,4,10.225,1.011
+Irinotecan hydrochloride hydrate,Sodium bicarbonate,3,10.225,1.017
+Folic acid,Prednisolone,4,10.125,1.001
+Filgrastim (genetical recombination),Sulfamethoxazole-trimethoprim,3,10.124,1.004
+Dopamine hydrochloride,Furosemide,4,9.955,1.002
+Famotidine,Filgrastim (genetical recombination),5,9.921,1.011
+Furosemide,Sodium Ferrous Citrate,3,9.868,1.006
+Irinotecan hydrochloride hydrate,Lenograstim (genetical recombination),5,9.815,1.016
+Gefitinib,Rebamipide,3,9.638,1.002
+Irinotecan hydrochloride hydrate,Metoclopramide hydrochloride,5,9.612,1.016
+Famotidine,Panipenem/Betamipron,4,9.579,1.01
+Allopurinol,Pravastatin Sodium,4,9.43,1.005
+Famotidine,Tegafur/uracil,4,9.337,1.01
+Lamivudine,Sulfamethoxazole-trimethoprim,3,9.276,1.004
+Furosemide,Sulfamethoxazole-trimethoprim,4,9.259,1.006
+Famotidine,Sodium Ferrous Citrate,5,9.137,1.01
+Ranitidine Hydrochloride,Teprenone,4,9.076,1.002
+Glimepiride,Magnesium oxide,3,9.031,1.002
+Famotidine,Lactomin,3,8.993,1.01
+Allopurinol,Ursodeoxycholic acid,4,8.547,1.005
+Fluorouracil,Maintenance solution (3),4,8.291,1.01
+Famotidine,Sucralfate hydrate,3,8.278,1.009
+Loperamide hydrochloride,"Tegafur, gimeracil, and oteracil potassium combination drug",3,8.242,1.005
+Cisplatin,Lenograstim (genetical recombination),3,8.195,1.009
+Cefotiam Hydrochloride,Prednisolone,3,8.164,1.001
+Leflunomide,Prednisolone,8,8.108,1.002
+Magnesium oxide,Sodium Ferrous Citrate,4,8.021,1.008
+Sulfamethoxazole-trimethoprim,Ursodeoxycholic acid,3,7.968,1.003
+Irinotecan hydrochloride hydrate,Panipenem/Betamipron,4,7.908,1.013
+Carbazochrome Sodium Sulfonate Hydrate,Furosemide,3,7.907,1.001
+Dexamethasone sodium phosphate,Ranitidine Hydrochloride,3,7.903,1.003
+Mycophenolate mofetil,Prednisolone,3,7.802,1.001
+Allopurinol,Dexamethasone sodium phosphate,3,7.728,1.004
+Ketoprofen,Loxoprofen sodium hydrate,3,7.493,1.001
+Famotidine,Lenograstim (genetical recombination),3,7.485,1.008
+Famotidine,Metoclopramide,3,7.463,1.008
+Cisplatin,Docetaxel hydrate,4,7.193,1.008
+Loxoprofen sodium hydrate,Methylprednisolone sodium succinate,3,7.078,1.004
+Loperamide hydrochloride,Sulfamethoxazole-trimethoprim,3,7.06,1.004
+Calcium Levofolinate,Sodium Ferrous Citrate,3,7.029,1.007
+Misoprostol,Prednisolone,4,7.02,1.001
+Famotidine,Fluconazole,4,6.803,1.007
+Cefepime hydrochloride hydrate,Furosemide,3,6.792,1.001
+Allopurinol,Cyclosporine,3,6.729,1.003
+Lenograstim (genetical recombination),Magnesium oxide,4,6.632,1.002
+Infliximab (genetical recombination),Prednisolone,5,6.599,1.001
+Zolpidem tartrate,aspirin,3,6.502,1.002
+Loxoprofen sodium hydrate,Sulfamethoxazole-trimethoprim,3,6.412,1.004
+Furosemide,Insulin Human (Genetical Recombinant),3,6.392,1.004
+Cefpirome sulfate,Famotidine,3,6.281,1.001
+Famotidine,Granisetron hydrochloride,4,6.207,1.006
+Cisplatin,Imipenem hydrate/cilastatin sodium,3,6.057,1.006
+Omeprazole,Prednisolone,4,6.032,1.001
+Leflunomide,Loxoprofen sodium hydrate,4,5.929,1.002
+Acyclovir,Furosemide,3,5.924,1.001
+Magnesium oxide,Zopiclone,3,5.805,1.005
+Furosemide,Ursodeoxycholic acid,3,5.653,1.003
+Fluorouracil,Sodium Ferrous Citrate,3,5.629,1.006
+Prednisolone,Sulfasalazine,3,5.542,1.004
+Dexamethasone sodium phosphate,Magnesium oxide,4,5.488,1.002
+Lactomin,Magnesium oxide,5,5.357,1.002
+Loperamide hydrochloride,Magnesium oxide,6,5.268,1.003
+Granisetron hydrochloride,Magnesium oxide,5,5.252,1.002
+Dopamine hydrochloride,Famotidine,3,5.119,1.001
+"Tegafur, gimeracil, and oteracil potassium combination drug",Tegafur/uracil,4,5.107,1.009
+Methotrexate,Prednisolone,7,4.89,1.002
+Granisetron hydrochloride,Sennosides,3,4.853,1.002
+Amlodipine besylate,Teprenone,3,4.786,1.002
+Filgrastim (genetical recombination),Methotrexate,3,4.575,1.002
+Diclofenac sodium,Prednisolone,6,4.503,1.002
+Calcium folinate,Granisetron hydrochloride,3,4.498,1.005
+Irinotecan hydrochloride hydrate,Vancomycin hydrochloride,3,4.48,1.006
+Cyclosporine,Famotidine,3,4.429,1.001
+Loperamide hydrochloride,Loxoprofen sodium hydrate,6,4.378,1.002
+Lansoprazole,Rebamipide,3,4.364,1.002
+Allopurinol,Famotidine,8,4.364,1.002
+Prednisolone,Theophylline,3,4.353,1.003
+Loxoprofen sodium hydrate,Rebamipide,5,4.299,1.002
+Allopurinol,Sennosides,3,4.299,1.002
+Calcium folinate,Fluorouracil,3,4.272,1.005
+Cyclosporine,Prednisolone,3,4.256,1.001
+Famotidine,Sodium valproate,3,4.23,1.004
+Calcium folinate,Mosapride Citrate Hydrate,3,4.217,1.005
+Famotidine,Levofloxacin hydrate,4,4.182,1.004
+Prednisolone,Sulfamethoxazole-trimethoprim,3,3.943,1.003
+Loxoprofen sodium hydrate,Prednisolone,9,3.913,1.002
+Acyclovir,Famotidine,3,3.886,1.001
+Irinotecan hydrochloride hydrate,Methylprednisolone sodium succinate,4,3.885,1.005
+Famotidine,Ursodeoxycholic acid,4,3.871,1.003
+Allopurinol,Furosemide,5,3.786,1.002
+Magnesium oxide,Sennosides,6,3.773,1.003
+Famotidine,Methylprednisolone sodium succinate,3,3.628,1.003
+Prednisolone,Ranitidine Hydrochloride,3,3.551,1.002
+Methylprednisolone sodium succinate,Prednisolone,3,3.438,1.001
+Famotidine,Sulfamethoxazole-trimethoprim,3,3.429,1.003
+Famotidine,Pravastatin Sodium,3,3.42,1.003
+Calcium Levofolinate,Magnesium oxide,6,3.344,1.003
+Filgrastim (genetical recombination),Loxoprofen sodium hydrate,3,3.273,1.001
+Calcium folinate,Magnesium oxide,8,3.185,1.003
+Tegafur/uracil,Zolpidem tartrate,3,3.152,1.004
+Calcium folinate,Dexamethasone sodium phosphate,3,3.091,1.003
+Dexamethasone sodium phosphate,Famotidine,4,3.079,1.001
+Irinotecan hydrochloride hydrate,Magnesium oxide,9,3.045,1.004
+Lansoprazole,Loxoprofen sodium hydrate,3,2.935,1.001
+Famotidine,Rebamipide,5,2.722,1.002
+Fluorouracil,Magnesium oxide,6,2.679,1.002
+Granisetron hydrochloride,Loxoprofen sodium hydrate,3,2.678,1.001
+Irinotecan hydrochloride hydrate,Sennosides,5,2.601,1.003
+Brotizolam,Famotidine,3,2.509,1.001
+Magnesium oxide,Rebamipide,4,2.501,1.002
+Diclofenac sodium,Famotidine,3,2.263,1.001
+Loxoprofen sodium hydrate,Magnesium oxide,3,2.182,1.001
+Famotidine,Magnesium oxide,5,2.08,1.001
+Lansoprazole,Prednisolone,3,2.034,1.001
+Furosemide,Prednisolone,4,2.033,1.001
+Prednisolone,Rebamipide,3,1.979,1.001
+Famotidine,Furosemide,5,1.815,1.001
+Famotidine,Methotrexate,3,1.554,1.001
+Famotidine,Loxoprofen sodium hydrate,4,1.485,1.001
+Tegafur/uracil,Teprenone,4,1.422,1.001
+Famotidine,aspirin,3,1.361,1.0
+Famotidine,Prednisolone,5,1.265,1.0
+"Tegafur, gimeracil, and oteracil potassium combination drug",aspirin,4,1.203,1.0
